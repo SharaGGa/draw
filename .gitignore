@@ -12,7 +12,7 @@ gradle-app.setting
 
 .mtj.tmp/
 
-.jar
+*.jar
 *.war
 *.ear
 *.msi
